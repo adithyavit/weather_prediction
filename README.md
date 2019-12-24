@@ -39,7 +39,7 @@ At each step the parameter used to decide the class is chose based on entropy of
 ![](images/decision_tree.png)
 
 ## Logistic Regression:
-![](images/logostic_regression.png)
+![](images/logistic_regression.png)
 
 The above picture represents how logistic regression was able to classify haze and fog effectively. Her 0 represents fog and 1 represents haze.
 
